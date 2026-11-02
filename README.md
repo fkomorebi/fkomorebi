@@ -13,19 +13,20 @@
 
 <br/><br/>
 
-🤖 ROS2 &nbsp;·&nbsp; 🌐 Vue + Node &nbsp;·&nbsp; 📱 Flutter &nbsp;·&nbsp; 🎮 Apex & Hollow Knight
+🤖 ROS2 &nbsp;·&nbsp; 🌐 Vue + Node &nbsp;·&nbsp; 📱 Flutter &nbsp;·&nbsp; 🎮 Apex & Hollow Knight  &nbsp;·&nbsp; 🎶 Blues & Jazz & Funk & R&B
 
 <br/>
 
-<em>"A good playlist and a clean build — that's all I need."</em>
+<em>Living · Building · Listening</em>
 
 <br/><br/>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1E0" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=C9D1E0&langs_count=6" />
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=fkomorebi&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1E0" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkomorebi&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=C9D1E0&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0B1020&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=fkomorebi&style=flat-square&color=0B1020&label=visitors" />
 
+</div>
 </div>
